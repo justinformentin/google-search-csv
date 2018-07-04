@@ -1,0 +1,29 @@
+{
+  "name": "search-to-csv",
+  "version": "1.0.0",
+  "description": "A Nightmare based scraper to exports google search results to csv.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinformentin/google-search-csv.git"
+  },
+  "keywords": [
+    "Google",
+    "Search",
+    "javascript",
+    "CSV"
+  ],
+  "author": "Justin Formentin",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/justinformentin/google-search-csv/issues"
+  },
+  "homepage": "https://github.com/justinformentin/google-search-csv#readme",
+  "dependencies": {
+    "async": "^2.1.5",
+    "nightmare": "^2.7.0"
+  }
+}
